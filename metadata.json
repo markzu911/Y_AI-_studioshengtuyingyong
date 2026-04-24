@@ -1,0 +1,6 @@
+{
+  "name": "PromptForge: 行业生图生成器",
+  "description": "专业级多行业 AI 生图应用提示词框架设计工具，通过 AI 分析自动生成高度适配的电商与展示类提示词模板。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI 分析", "自动提示词工程"]
+}
